@@ -12,6 +12,6 @@ cd pimpmynode
 bash pimpit.sh
 ```
 
-Changes will take effect immediately, so there is no need to reboot the VPS. 
+Changes will take effect immediately, so there is no need to reboot the VPS. Use at your own risk :)
 
 With big thanks to AKcryptoGUY.
