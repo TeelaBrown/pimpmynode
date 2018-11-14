@@ -5,6 +5,7 @@ This script replaces the standard Ubuntu welcome message with a Helium logo and 
 
 **Usage:**
 
+As root:
 ```
 git clone https://github.com/TeelaBrown/pimpmynode.git
 cd pimpmynode
