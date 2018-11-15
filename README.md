@@ -15,7 +15,7 @@ bash pimpit.sh
 Changes will take effect immediately, so there is no need to reboot the VPS. Example:
 
 
-<img src="test2.png" alt="Example" class="inline"/>
+<img src="final.png" alt="Example" class="inline"/>
 
 
 Use at your own risk :)
