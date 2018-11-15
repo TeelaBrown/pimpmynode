@@ -1,5 +1,5 @@
 #!/bin/bash
-apt-get ForceIPv4=true update -y
+sudo apt-get -o Acquire::ForceIPv4=true update -y
 apt-get install lsb-release update-motd -y
 rm -r /etc/update-motd.d/
 mkdir /etc/update-motd.d/
