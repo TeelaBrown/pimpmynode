@@ -18,6 +18,6 @@ Changes will take effect immediately, so there is no need to reboot the VPS. Exa
 <img src="final.png" alt="Preview" class="inline"/>
 
 
-Use at your own risk :)
+Use at your own discretion :)
 
 With big thanks to AKcryptoGUY.
