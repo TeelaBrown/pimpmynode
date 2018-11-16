@@ -1,7 +1,7 @@
 # pimpmynode
 A simple script that modifies the welcome message of a Helium masternode on a Ubuntu VPS
 
-This script replaces the standard Ubuntu 16.04 welcome message with a Helium logo and useful server information through modifying MOTD on the VPS. Tested on Vultr and DO with Ubuntu 16.04. No lag. May work on other Linux distributions as well.
+This script replaces the standard Ubuntu 16.04 welcome message with a Helium logo and useful server info through modifying MOTD on the VPS. Tested on Vultr and DO with Ubuntu 16.04. No lag. May work on other Linux distributions as well.
 
 **Usage:**
 
